@@ -7,3 +7,6 @@ The potential candidate can directly upload their CVs and details on our platfor
 For the recruiter, we ease up a lot of the shortlisting process, with our cutting-edge technology making sure that the most competant candidates come out on top, removing any human bias and providing evryone with an equal opportunity. Recruiter can look through all the candidate profiles through a UI friendly view of the database and can also manipulate and make any nessessary changes if required. We make it easy to make changes to the database in case of any urgency removing any extra hassle. Shortlisting is purely based on the CV reviews of the candidates and the best fit person for the job description will be passed on to the next round or interview. Shortlisted candidates will be immediately notified through WhatsApp upon their selection. The Reliable Guy bot is an assisting tool that will assist you make any important decision if you want.
 
 It is Everything AI, powered by innovation!
+
+## Video
+https://www.loom.com/share/86ae0a466c6847b188dd3c7a9ad2f104?sid=2a25bd0a-d460-44ea-b35b-f97380e77a31
