@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+tqdm=4.66.5
+chromadb
+langchain
+pypdf
+faiss-cpu
+Ollama

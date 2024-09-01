@@ -1,0 +1,1 @@
+from templates.home import home_page
